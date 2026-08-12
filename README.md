@@ -1,6 +1,6 @@
 # Awesome-Frontline-Workforce-Platform
 
-# Top Frontline Workforce Platforms
+## Top Frontline Workforce Platforms
 
 A curated list of leading platforms for deskless / frontline workforce management — covering employee communication, task execution, scheduling, microlearning, audits, shift management, and operational orchestration for retail, hospitality, manufacturing, logistics, and field teams.  
 **Primary focus: open-source software.**
