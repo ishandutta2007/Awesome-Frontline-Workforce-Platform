@@ -44,7 +44,7 @@ Repositories below are decorated with GitHub star badges (linking directly to ea
 
 ### 🛠️ Core Workforce Management, HR & Scheduling Platforms
 
-| Project | GitHub Stars (Descending) ⭐ | Description | License | Key Notes |
+| Project | GitHub_Stars (Descending) ⭐ | Description | License | Key Notes |
 |---------|-----------------------------|-------------|---------|-----------|
 | **[Odoo Community](https://github.com/odoo/odoo)** | [<img src="https://img.shields.io/github/stars/odoo/odoo?style=social&color=white" alt="Odoo Stars"/>](https://github.com/odoo/odoo/stargazers) | Open-source ERP and enterprise suite with built-in modules for employee management, shift attendance, leave tracking, and task execution. | LGPLv3 | Comprehensive operational backbone adaptable for frontline teams |
 | **[ERPNext](https://github.com/frappe/erpnext)** | [<img src="https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white" alt="ERPNext Stars"/>](https://github.com/frappe/erpnext/stargazers) | Full-featured open-source ERP system featuring human resource management, shift management, expense claims, and attendance tracking. | GPLv3 | Highly customizable open HR and operational backbone |
@@ -62,7 +62,7 @@ Repositories below are decorated with GitHub star badges (linking directly to ea
 
 Sorted in descending order by GitHub repository star counts:
 
-| Project | GitHub Stars (Descending) ⭐ | Focus Area | Description |
+| Project | GitHub_Stars (Descending) ⭐ | Focus Area | Description |
 |---------|-----------------------------|------------|-------------|
 | **[Google OR-Tools](https://github.com/google/or-tools)** | [<img src="https://img.shields.io/github/stars/google/or-tools?style=social&color=white" alt="OR-Tools Stars"/>](https://github.com/google/or-tools/stargazers) | Scheduling Optimization | Open-source software suite for combinatorial optimization, shift scheduling, vehicle routing, and constraint programming. |
 | **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** | [<img src="https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white" alt="Rocket.Chat Stars"/>](https://github.com/RocketChat/Rocket.Chat/stargazers) | Frontline Communication | Self-hosted open-source communication platform with channels, live chat, matrix bridge, and mobile apps for field teams. |
